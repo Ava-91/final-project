@@ -1,5 +1,15 @@
 body {
   font-family: Arial;
-  background: pink;
-  text-align: center;
+    background: lightblue;
+    text-align: center;
+}
+  
+nav {
+    background: white;
+    padding: 15px;
+}
+  
+a {
+    margin: 10px;
+    text-decoration: none;
 }
